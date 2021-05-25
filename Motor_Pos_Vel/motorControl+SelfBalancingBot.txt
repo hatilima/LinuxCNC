@@ -1,0 +1,15 @@
+https://www.medicaldesignandoutsourcing.com/4-steps-to-precisely-control-motor-velocity-at-low-speed/
+
+https://www.semanticscholar.org/paper/Movement-control-of-two-wheels-balancing-robot-PID-Pratama-Binugroho/d5ffbb30b6e7c6b8e39906fa08703af238be4336
+
+https://create.arduino.cc/projecthub/tareqwaleed1996/pid-speed-controller-for-dc-motor-74e735
+
+https://docs.simplefoc.com/velocity_loop
+
+https://www.jjrobots.com/projects-2/b-robot/
+
+https://robotics.stackexchange.com/questions/15009/balancing-robot-how-to-control-the-velocity-and-angle
+
+https://journals.sagepub.com/doi/pdf/10.5772/63933
+
+
