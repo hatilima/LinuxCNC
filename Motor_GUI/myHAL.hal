@@ -87,3 +87,6 @@ net x-output        	<=  pidx.output
 
 sets pid-enable TRUE #just to activate the PID
 sets pwm-enable TRUE #just to activate the PWM
+
+
+net axis-select-x  halui.axis.x.select
